@@ -1,5 +1,5 @@
 # default-express-ts
-Express Typescript default Form
+Express Typescript default Project Form
 
 # 디비 env 
 MYSQL_USERNAME=<br>
