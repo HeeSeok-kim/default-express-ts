@@ -2,11 +2,11 @@
 Express Typescript default Form
 
 # 디비 env 
-MYSQL_USERNAME=
-MYSQL_PASSWORD=
-MYSQL_DATABASE=
-MYSQL_HOST=
-MYSQL_PORT=
+MYSQL_USERNAME=<br>
+MYSQL_PASSWORD=<br>
+MYSQL_DATABASE=<br>
+MYSQL_HOST=<br>
+MYSQL_PORT=<br>
 
 # 스키마 생성
 ts-node ./src/migrations/create-schema.ts
